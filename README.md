@@ -26,7 +26,7 @@ A Python-based Face Recognition System for managing student attendance and infor
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/face-recognition-system.git
+   git clone https://github.com/sumitbavaskar/face-recognition-system.git
    cd face-recognition-system
    ```
 
@@ -77,4 +77,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-*Developed by [Your Name].*
+*Developed by Sumit Bavaskar.*
